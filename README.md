@@ -1,10 +1,10 @@
-I'm Audrey, a frontend developer and UI/UX designer from the Philippines!
+I'm Audrey, a frontend developer and UI/UX designer from the Philippines! <br />
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/audrey_dv) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mycronare) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_golddrey) 
 
 #
 
-  📄 Resume [https://tinyurl.com/mycronareCV](https://tinyurl.com/mycronareCV)
-  📫 Contact Information **audreykirstendelavega@gmail.com**
+  📄 Resume [https://tinyurl.com/mycronareCV](https://tinyurl.com/mycronareCV) <br />
+  📫 Contact Information **audreykirstendelavega@gmail.com** <br />
 
   ⚡ Fun fact **I illustrate digitally as well and dabble in graphic design every now and then.**
 
