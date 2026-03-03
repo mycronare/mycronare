@@ -1,6 +1,9 @@
-# ₊˚ʚ 🌱 ₊˚✧ ﾟ. Audrey here! 
+## ₊˚ʚ 🌱 ₊˚✧ ﾟ. Audrey here! 
 
-Aspiring frontend developer and UI/UX designer from the Philippines 🌱 <br />
+<div align="center">
+
+ 🌱 <br />
+Aspiring frontend developer and UI/UX designer from the Philippines. <br />
 Reach me through the following links:
 
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/audrey_dv)
@@ -10,8 +13,11 @@ Reach me through the following links:
 📫 **audreykirstendelavega@gmail.com**
 # 
 
-🌱 Learning to be comfortable with code as a person that is a designer first, programmer second. Hoping to make more things I can be proud of and give myself opportunities to create things, while improving how I solve problems and make decisions. <br />
-🌱 I have spent a significant amount of my life being fond of illustration and graphic design :) hoping to get back into them while I do more coding projects, perhaps during ideation or when I'm making assets for use.
+🌱 <br />
+Learning to be comfortable with code as a person that is a designer first, programmer second. Hoping to make more things I can be proud of and give myself opportunities to create things, while improving how I solve problems and make decisions. <br />
+<br />
+🌱 <br />
+I have spent a significant amount of my life being fond of illustration and graphic design :) hoping to get back into them while I do more coding projects, perhaps during ideation or when I'm making assets for use.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -24,3 +30,5 @@ Reach me through the following links:
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+</div>
+
