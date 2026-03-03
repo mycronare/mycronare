@@ -1,7 +1,7 @@
 # ₊˚ʚ 🌱 ₊˚✧ ﾟ. Audrey here! 
 
 Aspiring frontend developer and UI/UX designer from the Philippines 🌱 <br />
-Reach me through the following links
+Reach me through the following links:
 
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/audrey_dv)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mycronare)
