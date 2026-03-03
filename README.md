@@ -1,6 +1,6 @@
 # 
 
-I'm a frontend developer and UI/UX designer from the Philippines 🌱 <br />
+Aspiring frontend developer and UI/UX designer from the Philippines 🌱 <br />
 
 [![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white)](https://behance.net/audrey_dv)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/mycronare)
