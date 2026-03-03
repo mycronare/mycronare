@@ -1,12 +1,10 @@
 # 
 
 Aspiring frontend developer and UI/UX designer from the Philippines 🌱 <br />
-
-[![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white)](https://behance.net/audrey_dv)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/mycronare)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/_golddrey)
-[![Resume](https://img.shields.io/badge/Resume-707070?logo=readme&logoColor=white)](https://tinyurl.com/mycronareCV)
-
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/audrey_dv)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mycronare)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_golddrey)
+[![Resume](https://img.shields.io/badge/Resume-444444?style=for-the-badge&logo=readme&logoColor=white)](https://tinyurl.com/mycronareCV) <br />
 📫 **audreykirstendelavega@gmail.com**
 # 
 
