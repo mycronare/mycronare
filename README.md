@@ -1,4 +1,4 @@
-# 
+# ₊˚ʚ 🌱 ₊˚✧ ﾟ. Audrey here! 
 
 Aspiring frontend developer and UI/UX designer from the Philippines 🌱 <br />
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/audrey_dv)
