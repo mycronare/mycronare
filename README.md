@@ -14,7 +14,7 @@ Reach me through the following links:
 # 
 
 🌱 <br />
-Learning to be comfortable with code as a person that is a designer first, programmer second. Also hoping to make more things I can be proud of and give myself opportunities to create things, while improving how I solve problems and make decisions :) .br />
+Learning to be comfortable with code as a person that is a designer first, programmer second. Also hoping to make more things I can be proud of and give myself opportunities to create things, while improving how I solve problems and make decisions :) .<br />
 <br />
 🌱 <br />
 I have spent a significant amount of my life being fond of illustration and graphic design :) hoping to get back into them while I do more coding projects, perhaps during ideation or when I'm making assets for use.
