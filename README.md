@@ -3,7 +3,7 @@
 <div align="center">
 
  🌱 <br />
-Aspiring frontend developer and UI/UX designer from the Philippines. <br />
+Frontend developer and UI/UX designer from the Philippines. <br />
 Reach me through the following links:
 
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/audrey_dv)
